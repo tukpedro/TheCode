@@ -1,0 +1,6 @@
+P0:01) Qual a finalidade do controle de versão?
+Sua resposta
+Controle de versão é um sistema para registrar todas as alterações feitas em um projeto, por qualquer integrante. 
+Organiza cada etapa da construção do programa até a sua versão final, para uso. 
+Permite reverter arquivos de volta para um estado anterior, comparar as mudanças ao longo do tempo, descartar 
+algo que não funciona e ver quem fez alterações no projeto.

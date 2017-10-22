@@ -1,0 +1,3 @@
+P0:12) Pra que serve o comando git diff?
+Sua resposta
+Para mostrar as mudanças feitas entre cada commit realizado.

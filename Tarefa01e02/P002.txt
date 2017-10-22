@@ -1,0 +1,5 @@
+P0:02) O que é um repositório?
+Sua resposta
+É um diretório do Git que armazena os dados e os objetos do projeto. 
+Fica no servidor do Git e o integrante do projeto deve cloná-lo para seu computador para poder trabalhar. 
+Depois de fazer as devidas alterações, deve registrar tudo neste repositório do projeto.

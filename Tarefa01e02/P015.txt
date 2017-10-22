@@ -1,0 +1,3 @@
+P0:15) Qual a diferença entre Git e GitHub?
+Sua resposta
+Git é a ferramenta que se usa. GitHub é uma forma de usar a ferramenta Git com interface gráfica, deixando mais fácil e intuitivo o uso.
