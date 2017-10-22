@@ -1,3 +1,0 @@
-P0:08) O que você entende por repositório remoto?
-Sua resposta
-É um repositório Git alocado em um servidor para ser compartilhado com os desenvolvedores do projeto.

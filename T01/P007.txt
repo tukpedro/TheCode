@@ -1,3 +1,0 @@
-P0:07) É correto afirmar que o comando git log serve para gravar logs do sistema? Justifique sua resposta.
-Sua resposta
-Não, o git log serve para mostrar as ultimas alterações do projeto.

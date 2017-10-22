@@ -1,3 +1,0 @@
-P0:13) O que você entende por Branch?
-Sua resposta
-É uma forma de se trabalhar paralelamente no projeto, sem interferir no código principal

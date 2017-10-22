@@ -1,3 +1,0 @@
-P0:10) Descreva o git pull.
-Sua resposta
-É o comando para baixar todas as atualizações do projeto em que vai trabalhar.

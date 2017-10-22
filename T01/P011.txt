@@ -1,3 +1,0 @@
-P0:11) Dê um exemplo de uma situação na qual você usaria o comando git stash?
-Sua resposta
-Quando é necessário reverter o projeto para um estado anterior. Git stash arquiva o projeto em um local que pode ser recuperado.

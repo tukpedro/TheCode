@@ -1,3 +1,0 @@
-P0:05) O que você entende por Staging Area?
-Sua resposta
-É a área onde se salva os arquivos e ediçoes, antes de mandá - los para o repositório.

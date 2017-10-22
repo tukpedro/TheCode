@@ -1,4 +1,0 @@
-P0:06) O que você entende por commit?
-Sua resposta
-Quando alterações que um integrante do projeto faz é enviada para o repositório onde todos os integrante tem acesso.
-
