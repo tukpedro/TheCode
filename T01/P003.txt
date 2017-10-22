@@ -1,0 +1,3 @@
+P0:03) O que você entende por Untracked files?
+Sua resposta
+Um novo arquivo no repositório é detectado, mas não está adicionado a lista de rastreamento de alterações do Git.

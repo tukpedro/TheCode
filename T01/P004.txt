@@ -1,0 +1,4 @@
+P0:04) Ao rodar o comando git status, quais os estados que os arquivos podem estar? insira uma breve descrição sobre eles.
+Sua resposta
+Quando há arquivos no repositorio que nao foram adicionados a lista de rastreio do Git, eles ficam com estado de Untracked.
+Quando este arquivo é adicionado a lista da rastreio, então todo Commit que for dado, será detectado quem fez e quando.

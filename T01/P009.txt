@@ -1,0 +1,3 @@
+P0:09) Descreva o git push.
+Sua resposta
+É o comando para enviar todos os commits da staging area para o repositório destino.

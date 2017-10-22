@@ -1,0 +1,3 @@
+P0:14) É correto afirmar que o diretório .git podem ser excluído? Justifique sua resposta.
+Sua resposta
+Sim. Pode ser excluído, porém o repositório local(PC) deixará de estar linkado ao repositório Git
